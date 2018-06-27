@@ -1,0 +1,27 @@
+name      behavior  toy_1         toy_2         toy_3         toy_4         toy_5         toy_6          street_number  street_name    street_suffix  postal_code  house_value  |  infraction
+alice     nice      Monopoly      Batman        Kaleidoscope  Skates        Slinky        Transformers   86             Waterford      Dr             M4K1E8       999888
+ben       nice      Blocks        Dominoes      Monopoly      Bear          Bicycle       Lego           230            King           St             M6K1E1       362000
+costa     naughty   Bear          Bicycle       Lego          Boat          Car           Blocks         166            Mcnicoll       Ave            M4K1B2       1290000      |  pushed your sister off the roof
+dale      nice      Truck         Barbie        Slinky        Crayons       Doll          Dominoes       430            Military       Tr             M1K1B1       675000
+eileen    nice      Crayons       Doll          Batman        Meccano       Gumby         Soldier        2627           Mccowan        Rd             M8K1E5       4901234
+fred      naughty   Meccano       Gumby         Soldier       Kaleidoscope  Pony          Lego           247            Westmount      Ave            M4L1E1       123094       |  emptied your dad's $500 bottle of Johnnie Walker Blue
+gordie    nice      Bicycle       Pony          Lego          Barbie        Slinky        Clue           31             Yorkshire      Rd             M8L5E6       499900
+harold    nice      Barbie        Slinky        Clue          Plane         Pony          Risk           34             Ordway         Rd             M7L5D8       599000
+isadora   nice      Plane         Pony          Risk          Robot         Zelda         Scrabble       47             Waterbeach     Cres           M2L1K8       549900
+joan      nice      Robot         Zelda         Scrabble      Skates        Slinky        Clue           2              Moraine        Hill           M4L7K3       698000
+katie     nice      Robot         Slinky        Clue          Meccano       Sorry         Stickers       11             Mid            Pines          M2L7D9       1456783
+lula      nice      Meccano       Sorry         Stickers      Synthesizer   Transformers  Truck          49             Cadillac       Ave            M5A1D3       1149000
+melissa   nice      Synthesizer   Transformers  Truck         Clue          Twister       Uno            61             Mayland        Tr             M4A1E4       399900
+nora      naughty   Clue          Twister       Uno           Crayons       Doll          Blocks         48             Evans          St             M4A1E3       329000       |  stole money from your mom's wallet and blamed your brother
+omar      nice      Crayons       Doll          Blocks        Barbie        Batman        Clue           9              Struthers      St             M4Q1D9       749000
+penelope  nice      Barbie        Batman        Clue          Boat          Car           Blocks         26             Waterbury      Dr             M3Q1E3       595500
+quenten   naughty   Boat          Dominoes      Blocks        Meccano       Bicycle       Lego           1              Silbury        Dr             M4Z1E8       709900       |  teased your cute cat mercilessly
+rory      naughty   Meccano       Bicycle       Lego          Kaleidoscope  Soldier       Life           85             Autumn         Glen           M4Z1E4       250000       |  made pipe bombs and blew them up in forest
+sydney    nice      Skates        Soldier       Kaleidoscope  Robot         Uno           Monopoly       175            Haddington     Ave            M5J1H1       2888000
+tyrome    nice      Kaleidoscope  Bear          Monopoly      Twister       Uno           Truck          68             Kenilworth     Ave            M6Q1H4       1929000
+umberto   nice      Twister       Car           Truck         Plane         Battleship    Pony           138            Mckee          Ave            M4T1H6       3988000
+vivian    nice      Plane         Battleship    Pony          Frisbee       Gumby         Clue           22             Strathearn     Blvd           M6T1H3       5288000
+waldo     nice      Frisbee       Gumby         Clue          Meccano       Life          Stickers       5051           Finch          Ave            M9T1E6       145000
+xiang     nice      Meccano       Sorry         Stickers      Robot         Zelda         Scrabble       1060           Midland        Ave            M4A1E9       699900
+yuri      nice      Robot         Uno           Scrabble      Synthesizer   Bear          Truck          70             Dundalk        Dr             M3A1E8       113430
+zoe       naughty   Synthesizer   Bear          Truck         Skates        Sorry         Transformers   112            Helendale      Ave            M2K1E8       989000       |  made a campfire in your parent's basement
